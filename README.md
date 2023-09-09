@@ -4,9 +4,6 @@ Created a secure login system with PHP and XAMPP, featuring user authentication 
 Key Features:
 
 User login using email and password.
-<br>
 Captcha verification to enhance security.
-<br>
 Utilizes XAMPP for MySQL database support.
-<br>
 Provides a solid foundation for user authentication.
